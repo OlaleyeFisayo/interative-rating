@@ -12,7 +12,6 @@
     --medium-grey: hsl(216, 12%, 54%);
     --dark-blue: hsl(213, 19%, 18%);
     --light-blue: hsl(218, 16%, 23%);
-    --blue: hsl(220, 17%, 14%);
     --very-dark-blue: hsl(216, 12%, 8%);
     --orange: hsl(25, 97%, 53%);
     --default-font: 'Overpass', sans-serif;
@@ -26,9 +25,9 @@ body {
 }
 
 .one {
-    width: 350px;
+    width: 400px;
     height: auto;
-    background: var(--blue);
+    background: var(--dark-blue);
     border-radius: 30px;
     padding: 25px;
     position: absolute;
@@ -107,9 +106,9 @@ input[type="radio"]:checked + .radio-label {
 }
 
 .two {
-    width: 350px;
+    width: 400px;
     height: auto;
-    background: var(--blue);
+    background: var(--dark-blue);
     border-radius: 30px;
     padding: 25px;
     position: absolute;
@@ -147,4 +146,14 @@ input[type="radio"]:checked + .radio-label {
 
 .hidden {
     top: -50%;
+}
+
+@media (max-width: 399px) {
+    .one {
+        width: 350px;
+    }
+
+    .two {
+        width: 350px;
+    }
 }
