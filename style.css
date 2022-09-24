@@ -21,7 +21,7 @@
 body {
     background: var(--very-dark-blue);
     font-family: var(--default-font);
-    
+    padding: 5px;
 }
 
 .one {
