@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My Github Repository](https://github.com/OlaleyeFisayo/interative-rating)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -50,28 +50,28 @@ Users should be able to:
 
 ### What I learned
 
-I got to know how to style radio type input, and make a section appear when a button is clicked
+I learned how to design radio buttons and have a section appear when a button is clicked.
 
 
 ### Continued development
 
-I will just take some time to perfert my knowlegde on gradients
+I'll just spend some time to brush up on my gradient knowledge.
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com)
-- [Example resource 2](https://www.example.com)
+- [dcode](https://www.youtube.com/watch?v=GDh9uToZkYg)
+- [Codingflag](https://www.youtube.com/watch?v=5BeM3-_8788)
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Github account](https://github.com/OlaleyeFisayo)
+- Frontend Mentor - [@OlaleyeFisayo](https://www.frontendmentor.io/profile/OlaleyeFisayo)
+- Twitter - [@SemyElite](https://twitter.com/SemyElite)
 
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+The dcode YouTube video was quite useful in styling the radio input, while the Codingflag YouTube video assisted me in creating a popup form.
 
